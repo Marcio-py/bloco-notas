@@ -15,7 +15,8 @@ As tecnologias usadas foram
 
 ## Como executar o projecto
 
-    ```bash
+    ```
+    bash
     #Clonar o repositorio
     git clone https://github.com/Marcio-py/bloco-notas.git
 
