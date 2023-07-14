@@ -27,7 +27,4 @@ As tecnologias usadas foram
 
     # Executar o projecto
     npm run dev
-
-```
-
-```
+    ```
