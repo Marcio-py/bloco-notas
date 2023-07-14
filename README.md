@@ -7,7 +7,11 @@ obs: todas as notas no ui desaparecem quando a pagina é recarregada
 
 ## Tecnologias usadas
 
-As tecnologias usadas foram - HTML / CSS / JS - React JS - Vite.
+As tecnologias usadas foram
+
+- HTML / CSS / JS
+- React JS
+- Vite.
 
 ## Como executar o projecto
 
